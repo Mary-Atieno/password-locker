@@ -1,4 +1,4 @@
-# PASSWORD-LOCKER
+# Password-locker
 
 ## CREATED BY
 
