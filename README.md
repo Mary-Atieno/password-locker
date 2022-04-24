@@ -1,14 +1,14 @@
-# password-locker
+# PASSWORD-LOCKER
 
-## created by
+## CREATED BY
 
 Mary Atieno
 
-### Description
+### DESCRIPTION
 
 password locker is a python website that allows users to secure their passwords,usernames and other account details.
 
-#### Behavior Driven Development
+#### Behavior Driven Development (BDD)
 
 Type in keyword cu to create user
 
@@ -24,22 +24,22 @@ Type in keyword du to display contacts. input: "dc" output:"list of accounts tha
 Error Message
 If one enters a short code that is not offered in the options, An error message is printed out on the terminal ie Please use the short codes that are provided
 
-##### Installation Requirements
+##### INSTALLATION REQUIREMENTS
 
 . python3.9
 . pip
 . pyperclip
 . xclip
 
-###### Technologies used
+###### TECHNOLOGY USED
 
 . python3.9
 
-###### Known bugs
+###### KNOWN BUGS
 
 If you encounter any not known bugs feel free to reach me out: mary.atieno@student.moringaschool.com
 
-###### License
+###### LICENSE
 
 MIT License
 
