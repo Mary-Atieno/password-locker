@@ -37,16 +37,16 @@ If one enters a short code that is not offered in the options, An error message 
 $ chmod +x run.py - to make the projet executable
 $ ./run.py - to run the project
 
-###### Running Tests
+## Running Tests
 
 .To run test for the project
 $ python3.9 user_test.py
 
-###### TECHNOLOGY USED
+## TECHNOLOGY USED
 
 . python3.9
 
-###### KNOWN BUGS
+## KNOWN BUGS
 
 If you encounter any not known bugs feel free to reach me out: mary.atieno@student.moringaschool.com
 
