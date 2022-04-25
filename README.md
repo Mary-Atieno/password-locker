@@ -8,7 +8,7 @@ Mary Atieno
 
 password locker is a python website that allows users to secure their passwords,usernames and other account details.
 
-#### Behavior Driven Development (BDD)
+## Behavior Driven Development (BDD)
 
 Type in keyword cu to create user
 
@@ -24,14 +24,14 @@ Type in keyword du to display contacts. input: "dc" output:"list of accounts tha
 Error Message
 If one enters a short code that is not offered in the options, An error message is printed out on the terminal ie Please use the short codes that are provided
 
-##### INSTALLATION REQUIREMENTS
+## INSTALLATION REQUIREMENTS
 
 . python3.9
 . pip
 . pyperclip
 . xclip
 
-###### Running Project
+### Running Project
 
 .On terminal where you have opened the cloned project
 $ chmod +x run.py - to make the projet executable
