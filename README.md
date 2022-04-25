@@ -31,6 +31,17 @@ If one enters a short code that is not offered in the options, An error message 
 . pyperclip
 . xclip
 
+###### Running Project
+
+.On terminal where you have opened the cloned project
+$ chmod +x run.py - to make the projet executable
+$ ./run.py - to run the project
+
+###### Running Tests
+
+.To run test for the project
+$ python3.9 user_test.py
+
 ###### TECHNOLOGY USED
 
 . python3.9
@@ -39,7 +50,7 @@ If one enters a short code that is not offered in the options, An error message 
 
 If you encounter any not known bugs feel free to reach me out: mary.atieno@student.moringaschool.com
 
-###### LICENSE
+## LICENSE
 
 MIT License
 
